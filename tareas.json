@@ -1,0 +1,15 @@
+[
+    {"titulo": "ponerme a leer",
+     "estado":"terminada"
+},
+
+     {"titulo": "estudiar JS",
+     "estado":  "en progreso"
+},
+
+    {"titulo": "break",
+    "estado":  "pendiente"
+}
+
+
+]
